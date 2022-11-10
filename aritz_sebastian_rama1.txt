@@ -1,2 +1,6 @@
 Hola mundo! RAMA1
+<<<<<<< HEAD
 Editado fichero rama 1 desde master
+=======
+Editado fichero rama 1
+>>>>>>> aritz_sebastian_rama
